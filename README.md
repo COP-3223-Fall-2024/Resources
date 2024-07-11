@@ -2,9 +2,9 @@
 
 Welcome! I'm sure this will be very much overwhelming to those who have no idea what they signed themselves up to and very in-line to those who have some experience with *programming*.
 
-I will try to take this slow and provide ample enough of detail so you will succeed in this class but more importantly, in your career as a CS student.
+I will try to take this slow and provide ample detail so you will succeed in this class but more importantly, in your career as a CS student.
 
-So please read through this and take all resources I provide to you as a means of self-development and peaking your curiousity. 
+So please read through this and take all resources I provide to you as a means of self-development and piquing your curiousity. 
 
 ## Starting Point
 
