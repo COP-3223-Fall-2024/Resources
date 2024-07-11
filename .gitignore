@@ -1,0 +1,46 @@
+# .gitignore for macOS and VS Code development
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# macOS file resource forks
+*.swp
+*.lock
+*.DS_Store
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Uncomment if you have tasks that create the file directly in the .vscode folder
+# !.vscode/*.code-workspace
+
+# VS Code directories
+.history
+.ionide
+
+# General
+*.log
+*.log.[0-9]*
+*.err
+*.out
+*.pid
+*.s
